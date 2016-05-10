@@ -1,0 +1,13 @@
+{
+  "transport": "ftp",
+  "uploadOnSave": true,
+  "deleteLocal": true,
+  "hostname": "new-collection.kz",
+  "target": "/domains/new-collection.kz/public_html",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "newcoll",
+  "password": "[+][+]JJJ[+][+"
+}
